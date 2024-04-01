@@ -14,7 +14,7 @@
 
 - Hello, and welcome to my GitHub profile! My name is Abdelrahman, and I am a self-taught front-end developer with a passion for creating engaging and user-friendly web applications.
 
-- As a Computer Science student, I'm constantly learning and improving my skills in web development, including currently learning Advanced React.
+- As a Computer Science student, I am continuously enhancing my web development skills, with a current focus on mastering Advanced React.
 
 - My ultimate goal is to become a proficient web developer and contribute to open-source projects that make a positive impact.
 
