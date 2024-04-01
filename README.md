@@ -1,14 +1,14 @@
-[![Profile Views](https://komarev.com/ghpvc/?username=abdel-rahmanSalem&color=blue)](https://github.com/abdel-rahmanSalem)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdel-rahmanSalem&label=Profile%20views&color=0e75b6&style=flat" alt="abdel-rahmanSalem" /> </p>
 
 <h1 align="center"><b>Hi, I'm Abdelrahman </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;Currently+learning+Advanced+React,;Love+to+learn+new+stuffs..<3">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%234169E1&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;Currently+learning+Advanced+React,;Love+to+learn+new+stuffs..<3">
 </p>
 
 <br>
 
-## <img src="https://img.icons8.com/ios-filled/50/000000/business-contact.png"/> **About Me**
+## <img src="https://emojicdn.elk.sh/👤" width="25"><b> About Me</b>
 
 <br>
 
@@ -51,6 +51,7 @@
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%231a202c.svg?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)&nbsp;
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
   ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
+  ![Supabase](https://img.shields.io/badge/Supabase-003366?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
 
 <br>
 <br>
@@ -66,6 +67,7 @@
 <div align="center">
 
 [![Abdelrahman's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=abdel-rahmanSalem&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Abdelrahman's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=abdel-rahmanSalem&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
