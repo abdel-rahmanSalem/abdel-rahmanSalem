@@ -1,3 +1,5 @@
+[![Profile Views](https://komarev.com/ghpvc/?username=abdel-rahmanSalem&color=blue)](https://github.com/abdel-rahmanSalem)
+
 <h1 align="center"><b>Hi, I'm Abdelrahman </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -6,7 +8,7 @@
 
 <br>
 
-## <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="30" height="30"><path fill="none" d="M0 0h24v24H0z"/><path d="M11 18h2v-2h-2v2zm1-16C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm1-11h2v8h-2v-8z"/></svg> **About Me**
+## <img src="https://img.icons8.com/ios-filled/50/000000/business-contact.png"/> **About Me**
 
 <br>
 
