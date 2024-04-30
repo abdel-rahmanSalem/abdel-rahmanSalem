@@ -30,24 +30,17 @@
 
 <br>
 
-- **Languages**:
-
   ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
   ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
   ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
   ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-
-
-<br>   
-    
-- **Tools & Libraries**:
-
   ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
   ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
   ![Vite](https://img.shields.io/badge/Vite-%23000000.svg?style=for-the-badge&logo=vite&logoColor=#646CFF)&nbsp;
   ![Axios](https://img.shields.io/badge/-Axios-%23000000?style=for-the-badge&logo=axios&logoColor=%23FFFFFF)&nbsp;
-  ![npm](https://img.shields.io/badge/npm-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
+  ![npm](https://img.shields.io/badge/npm-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)&nbsp; 
+  ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
   ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
   ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
   ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
@@ -73,6 +66,8 @@
 
 [![Abdelrahman's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=abdel-rahmanSalem&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Abdelrahman's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=abdel-rahmanSalem&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdel-rahmanSalem&theme=dark)
+
 
 </div>
 
