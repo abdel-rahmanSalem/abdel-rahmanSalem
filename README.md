@@ -3,7 +3,7 @@
 <h1 align="center"><b>Hi, I'm Abdelrahman </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%234169E1&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;Currently+learning+Advanced+React,;Love+to+learn+new+stuffs..<3">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%234169E1&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum+Warahmatullah..&hearts;++;Self-taught+Software +Engineer,;Computer+Science+Student,;Currently+learning+Advanced+Nodejs,;Love+to+learn+new+stuffs..<3">
 </p>
 
 <br>
@@ -12,15 +12,15 @@
 
 <br>
 
-- Hello, and welcome to my GitHub profile! My name is Abdelrahman, and I am a self-taught front-end developer with a passion for creating engaging and user-friendly web applications.
+Hi there! I'm Abdelrahman, a self-taught software engineer with a deep passion for understanding the stuff that happens behind the scenes—everything from performance and memory management to optimization. I love building things from scratch and exploring how systems work under the hood.
+<br>
 
-- As a Computer Science student, I am continuously enhancing my web development skills, with a current focus on mastering Advanced React.
+### What I Do
 
-- My ultimate goal is to become a proficient web developer and contribute to open-source projects that make a positive impact.
+- **Frontend Dev:** I have a solid background in JavaScript and React.js, diving into advanced topics and the internal workings of these technologies.
+- **Current Focus:** I’m currently diving into advanced Node.js and distributed systems, always eager to tackle new challenges and grow my skills.
 
-- I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="abdelrahmansalemfahmy@gmail.com">abdelrahmansalemfahmy@gmail.com</a>
-
-- Thank you for visiting my profile, and I look forward to connecting with you!
+Feel free to reach out at [abdelrahmansalemfahmy@gmail.com](mailto:abdelrahmansalemfahmy@gmail.com). I’d love to connect!
 
 <br><br>
 
@@ -31,11 +31,12 @@
 <br>
 
   ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-  ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-  ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
   ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
   ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+  ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+  ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+  ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
   ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
   ![Vite](https://img.shields.io/badge/Vite-%23000000.svg?style=for-the-badge&logo=vite&logoColor=#646CFF)&nbsp;
   ![Axios](https://img.shields.io/badge/-Axios-%23000000?style=for-the-badge&logo=axios&logoColor=%23FFFFFF)&nbsp;
